@@ -198,3 +198,20 @@ a {
 .col-4 {
     padding: 15px;
 }
+
+/*FOOTER*/
+.footer-page {
+    background-color: black;
+    padding: 10px;
+}
+
+.row-footer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+h4 {
+    color: white;
+    font-size: 15px;
+}
