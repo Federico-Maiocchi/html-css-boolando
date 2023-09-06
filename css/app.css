@@ -119,4 +119,12 @@ a {
     right: 10px;
     font-size: 25px;
 }
+
+.discount {
+    background-color: red;
+    color: white;
+    padding: 4px;
+    font-size: 12px;
+    position: absolute;
+}
 /*main shop*/
