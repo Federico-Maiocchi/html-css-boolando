@@ -90,7 +90,7 @@ a {
 /*HEADER*/
 
 .header-page {
-    background-color: orangered;
+    background-color: #ff6900;
     padding: 15px;
     width: 100%;  
     position: fixed; 
@@ -201,7 +201,7 @@ a {
 
 /*FOOTER*/
 .footer-page {
-    background-color: black;
+    background-color: #1a1a1a;
 }
 
 .row-footer {
