@@ -211,7 +211,7 @@ a {
 }
 
 .footer-page [class^='col-'] {
-    padding: 10px;
+    padding: 6px;
 }
 .row-social-icons {
     display: flex;
@@ -221,13 +221,15 @@ a {
 
 h4 {
     color: white;
-    font-size: 15px;
+    font-size: 12px;
+    margin-bottom: 6px;
 }
+
 .row-information {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
 }
 .row-footer, .col-6 a {
-    font-size: 12px;
+    font-size: 11px;
 }
