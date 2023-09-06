@@ -32,7 +32,6 @@ img {
 
 .col-4 {
     width: calc((100% / 12) * 4);
-    padding: 10px;
 }
 
 .col-5 {
@@ -157,7 +156,6 @@ a {
 
 .price ,
 .old-price {
-    display: inline-block;
     font-size: 14px;
     font-weight: bold;
 }
@@ -169,3 +167,6 @@ a {
     text-decoration:line-through ;
 }
 /*main shop*/
+.col-4 {
+    padding: 15px;
+}
