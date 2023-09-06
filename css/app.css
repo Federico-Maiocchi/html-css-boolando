@@ -109,5 +109,14 @@ a {
 
 /*MAIN*/
 /*card*/
+.card-image {
+    position: relative;
+}
 
+.heart-sign {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-size: 25px;
+}
 /*main shop*/
