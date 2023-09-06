@@ -87,18 +87,22 @@ a {
 /*HEADER*/
 .header-page {
     background-color: orangered;
-    padding: 10px;
+    padding: 0;
 }
 
 .header-page [class^='col-'] {
-    border: 1px solid black;
+    /*border: 1px solid black;*/
+    padding: 2px;
 }
 
 .gender {
-    font-size: 10px;
-
+    font-size: 12px;
 }
 
 .logo {
-    width: 100px;
+    width: 90px;
+}
+
+.icons {
+    font-size: 12px;
 }
