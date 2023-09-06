@@ -62,3 +62,18 @@ img {
 .col-12 {
     width: 100%;
 }
+/*Flex settings*/
+.row {
+    display: flex;
+    padding: 10px;
+}
+/*HEADER*/
+.header-page {
+    background-color: orangered;
+    padding: 10px;
+}
+
+.header-page [class^='col-'] {
+    background-color: white;
+    border: 1px solid black;
+}
