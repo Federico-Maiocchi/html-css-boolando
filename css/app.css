@@ -32,6 +32,7 @@ img {
 
 .col-4 {
     width: calc((100% / 12) * 4);
+    padding: 10px;
 }
 
 .col-5 {
@@ -68,7 +69,7 @@ img {
 /*Flex settings*/
 .row {
     display: flex;
-    padding: 10px;
+    flex-wrap: wrap;
 }
 
 .justify-center {
@@ -90,7 +91,7 @@ a {
 /*HEADER*/
 .header-page {
     background-color: orangered;
-    padding: 0;
+    padding: 15px;
 }
 
 .header-page [class^='col-'] {
