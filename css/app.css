@@ -202,13 +202,20 @@ a {
 /*FOOTER*/
 .footer-page {
     background-color: black;
-    padding: 10px;
 }
 
 .row-footer {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
+}
+
+.footer-page [class^='col-'] {
+    padding: 20px;
+}
+.row-social-icons {
+    display: flex;
+    flex-wrap: wrap;
 }
 
 h4 {
