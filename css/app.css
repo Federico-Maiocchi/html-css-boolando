@@ -67,6 +67,23 @@ img {
     display: flex;
     padding: 10px;
 }
+
+.justify-center {
+    justify-content: center;
+}
+
+.justify-around {
+    justify-content: space-around;
+}
+/*ul settings*/
+ul {
+    list-style: none;
+}
+/*A settings*/
+a {
+    text-decoration: none;
+    color: white;
+}
 /*HEADER*/
 .header-page {
     background-color: orangered;
@@ -74,6 +91,10 @@ img {
 }
 
 .header-page [class^='col-'] {
-    background-color: white;
     border: 1px solid black;
+}
+
+.gender {
+    font-size: 10px;
+
 }
