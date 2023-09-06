@@ -211,14 +211,23 @@ a {
 }
 
 .footer-page [class^='col-'] {
-    padding: 20px;
+    padding: 10px;
 }
 .row-social-icons {
     display: flex;
     flex-wrap: wrap;
+    justify-content: space-between;
 }
 
 h4 {
     color: white;
     font-size: 15px;
+}
+.row-information {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.row-footer, .col-6 a {
+    font-size: 12px;
 }
